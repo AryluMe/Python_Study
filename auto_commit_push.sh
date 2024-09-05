@@ -11,3 +11,6 @@ git commit -m "自动提交：$current_time"
 
 # 推送更改到远程仓库
 git push origin master
+
+
+#手动上传命令：  ./auto_commit_push.sh
